@@ -1,4 +1,4 @@
-# Welcome to the advanced NVIDIA Advanced CUDA Training! 🚀
+# Welcome to the NVIDIA Advanced CUDA Training! 🚀
 
 ## Training Materials & Legal Notice
 
